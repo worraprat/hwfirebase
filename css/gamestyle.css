@@ -1,0 +1,46 @@
+footer {
+    margin-top: 5%;
+    color: #EEEEEE;
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+  
+  }
+  
+  h1game{
+    margin: 30px;
+    font-family: 'Lobster', cursive;
+    text-shadow: 5px 0 #232931;
+    font-size: 8rem;
+    color: chocolate;
+  }
+  pgame{
+    font-size: 2rem;
+    color: mediumvioletred;
+    font-family: 'Indie Flower', cursive;
+  }
+
+  .form {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+    
+  }
+  body{
+    background-color: #232931;
+  }
+  prevguess{
+    font-size: 2rem;
+   color: indigo;
+    font-family: 'Indie Flower', cursive;
+  }
+  check{
+    font-size: 2rem;
+    color: mediumblue;
+    font-family: 'Indie Flower', cursive;
+    font-size: 50px;
+  }
+  br{
+    font-size: 2rem;
+    color: darkred;
+    font-family: 'Indie Flower', cursive;
+  }
